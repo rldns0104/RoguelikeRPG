@@ -90,3 +90,12 @@
 
 ### Provide
 - let player to know current PlayerInfo(score, stats, inventory, etc.)
+
+### How to Load
+   ![image](https://github.com/rldnsrldns/RoguelikeRPG/assets/130642464/dee9e3c1-f756-49f8-b138-c41f19b29a84)
+
+
+   ![image](https://github.com/rldnsrldns/RoguelikeRPG/assets/130642464/ac005af9-fd63-4640-8b3e-6bc669a635d0)
+
+
+   ![image](https://github.com/rldnsrldns/RoguelikeRPG/assets/130642464/b2719702-8267-49fd-8378-878cf9dae997)
