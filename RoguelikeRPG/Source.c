@@ -13,6 +13,9 @@ int main()
 	{
 
 		_showGUI(hCSB, pRL);
+		_showInventory(hCSB, pRL->pPC);
+		_showPlayerInfo(hCSB, pRL->pPC);
+		_showScore(hCSB, pRL);
 		_printSysMsg(pRL->curEnv, hCSB);
 
 
@@ -34,7 +37,7 @@ int main()
 			_spawnNearEnt(pRL);
 		}
 
-		// ���� Ż�ⱸ
+		// º¸½º Å»Ãâ±¸
 		if (pRL->curIdx == 4 && pRL->pPC->pos.X == pRL->curEnv->posO.X && pRL->pPC->pos.Y == pRL->curEnv->posO.Y) {
 			pRL->pPC->stats[_SCORE] += 10000;
 			_showClearScreen(hCSB, pRL);
