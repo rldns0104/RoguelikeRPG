@@ -92,6 +92,9 @@
 - let player to know current PlayerInfo(score, stats, inventory, etc.)
 
 ### How to Load
+- Decompress this file
+   ![image](https://github.com/rldnsrldns/RoguelikeRPG/assets/130642464/e4faca2d-45de-4514-abb5-0990b0889f3d)
+
    ![image](https://github.com/rldnsrldns/RoguelikeRPG/assets/130642464/dee9e3c1-f756-49f8-b138-c41f19b29a84)
 
 
