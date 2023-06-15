@@ -1,0 +1,18 @@
+﻿  Source.c
+  roguelike_ui.c
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(97,64): warning C4033: '_handlePC'은(는) 값을 반환해야 합니다.
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(271,49): warning C4244: '=': 'double'에서 'SHORT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(376,1): warning C4267: '초기화 중': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(468,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(893,17): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(894,37): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(898,17): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(899,37): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(903,17): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(904,37): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(906,17): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(907,37): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+  코드를 생성하고 있습니다...
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(120): warning C4715: '_handlePC': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\rldns\source\repos\RoguelikeRPG\roguelike_ui.c(772): warning C4172: 지역 변수 또는 임시: name의 주소를 반환하고 있습니다.
+  RoguelikeRPG.vcxproj -> C:\Users\rldns\source\repos\RoguelikeRPG\Debug\RoguelikeRPG.exe
